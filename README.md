@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 💬 Ask me about Anything
-- 📫 How to reach me: [LinkedIn]([https://www.linkedin.com/in/reyhaneh-abdollahi-408895110/](https://www.linkedin.com/in/michael-de-los-reyes-bb90a9263/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/michael-de-los-reyes-bb90a9263/)
 - 😄 Pronouns: He/Him
 
 ## Languages and Tools:
